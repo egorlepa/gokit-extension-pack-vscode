@@ -1,0 +1,23 @@
+{
+  "name": "gokit-extension-pack",
+  "displayName": "Gokit Extension Pack",
+  "description": "",
+  "version": "1.0.0",
+  "publisher": "egorlepa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egorlepa/gokit-extension-pack-vscode.git"
+  },
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Programming Languages"
+  ],
+  "extensionPack": [ 
+    "egorlepa.smart-move",
+    "egorlepa.implementation-lense",
+    "egorlepa.strings-highlight"
+  ]
+}
