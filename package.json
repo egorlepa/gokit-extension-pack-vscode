@@ -1,6 +1,6 @@
 {
   "name": "gokit-extension-pack",
-  "displayName": "Gokit",
+  "displayName": "Collection of golang extensions.",
   "description": "",
   "version": "1.0.0",
   "publisher": "egorlepa",
@@ -16,8 +16,8 @@
     "Programming Languages"
   ],
   "extensionPack": [ 
-    "egorlepa.smart-move",
-    "egorlepa.implementation-lense",
-    "egorlepa.strings-highlight"
+    "egorlepa.go-smart-move",
+    "egorlepa.go-implementation-lense",
+    "egorlepa.go-strings-highlight"
   ]
 }
